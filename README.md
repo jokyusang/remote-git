@@ -1,4 +1,8 @@
 # remote-git
+
+이건 원격지 시험 프로젝트 입니다.
+이슈 할당 및 시험 목적입니다.
+
 welcome MY GITHUB
 
 MarkDown Guide Link
